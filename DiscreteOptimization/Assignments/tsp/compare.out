@@ -1,0 +1,161 @@
+tsp_100_1
+insertNearestInBetween 24454.6617106 
+
+tsp_1000_1
+greedy 20796756.2535 
+
+tsp_1173_1
+greedy 68007.2346257 
+
+tsp_1323_1
+greedy 310264.490974 
+
+tsp_144_1
+insertInBetween 67512.6162756 
+
+tsp_1655_1
+greedy 72232.0489405 
+
+tsp_198_1
+insertNearestInBetween 17593.7193318 
+
+tsp_226_1
+tsp_3038_1
+greedy 156864.86606 
+
+tsp_417_1
+greedy 13174.1709296 
+
+tsp_51_1
+greedy 487.010568723 
+
+tsp_657_1
+greedy 57190.3278603 
+
+tsp_783_1
+insertNearestInBetween 10234.3426372 
+
+tsp_100_2
+insertNearestInBetween 24235.3843679 
+
+tsp_101_1
+greedy 737.79291197 
+
+tsp_11849_1
+greedy 1048521.81948 
+
+tsp_136_1
+insertNearestInBetween 112013.104807 
+
+tsp_150_1
+insertNearestInBetween 29333.6099899 
+
+tsp_1748_1
+greedy 391874.391722 
+
+tsp_200_1
+greedy 32631.532455 
+
+tsp_2319_1
+greedy 253210.844963 
+
+tsp_318_1
+insertNearestInBetween 48125.7463395 
+
+tsp_439_1
+greedy 125732.034332 
+
+tsp_574_1
+insertInBetween 39511.7822017 
+
+tsp_70_1
+insertNearestInBetween 730.659998814 
+
+tsp_85900_1
+linear 500845817.265 
+
+tsp_100_3
+insertNearestInBetween 22084.5432947 
+
+tsp_105_1
+insertNearestInBetween 16890.5941681 
+
+tsp_124_1
+tsp_1379_1
+greedy 64454.7441975 
+
+tsp_150_2
+greedy 28464.5012004 
+
+tsp_1817_1
+greedy 65457.3920512 
+
+tsp_200_2
+greedy 34295.6886049 
+
+tsp_2392_1
+insertInBetween 378062.826191 
+
+tsp_318_2
+insertNearestInBetween 48125.7463395 
+
+tsp_442_1
+greedy 56952.1373754 
+
+tsp_575_1
+greedy 7528.35999841 
+
+tsp_724_1
+greedy 49786.2790161 
+
+tsp_99_1
+greedy 1364.12402335 
+
+tsp_100_4
+insertNearestInBetween 23169.5928257 
+
+tsp_1060_1
+insertNearestInBetween 250848.307597 
+
+tsp_127_1
+greedy 133006.733207 
+
+tsp_1400_1
+greedy 24979.85997 
+
+tsp_152_1
+greedy 78617.2815236 
+
+tsp_18512_1
+greedy 730956.038576 
+
+tsp_2103_1
+tsp_262_1
+tsp_33810_1
+tsp_4461_1
+tsp_5915_1
+tsp_7397_1
+tsp_100_5
+tsp_107_1
+tsp_1291_1
+tsp_14051_1
+tsp_1577_1
+tsp_1889_1
+tsp_2152_1
+tsp_264_1
+tsp_3795_1
+tsp_493_1
+tsp_5934_1
+tsp_76_1
+tsp_100_6
+tsp_1084_1
+tsp_1304_1
+tsp_1432_1
+tsp_159_1
+tsp_195_1
+tsp_225_1
+tsp_299_1
+tsp_400_1
+tsp_5_1
+tsp_654_1
+tsp_76_2

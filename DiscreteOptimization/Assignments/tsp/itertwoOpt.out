@@ -1,0 +1,900 @@
+tsp_100_1
+
+Iteration:  1 Algorithm:  greedy 25944.9376025 24468.3839813 
+
+
+Iteration:  1 Algorithm:  insertInBetween 50659.8377057 29336.4790344 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 29889.683568 24454.6617106 
+
+insertNearestInBetween 24454.6617106 
+
+tsp_1000_1
+
+Iteration:  1 Algorithm:  greedy 22886884.8292 20796756.2535 
+
+
+Iteration:  1 Algorithm:  insertInBetween 120766044.309 29979603.6402 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 39988959.9675 23304752.0615 
+
+greedy 20796756.2535 
+
+tsp_1173_1
+
+Iteration:  1 Algorithm:  greedy 74716.9682195 68007.2346257 
+
+
+Iteration:  1 Algorithm:  insertInBetween 114896.053063 73086.6820109 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 123874.171461 75299.4343086 
+
+greedy 68007.2346257 
+
+tsp_1323_1
+
+Iteration:  1 Algorithm:  greedy 329191.805554 310264.490974 
+
+
+Iteration:  1 Algorithm:  insertInBetween 1333539.88318 436549.37665 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 3088180.3885 485617.723785 
+
+greedy 310264.490974 
+
+tsp_144_1
+
+Iteration:  1 Algorithm:  greedy 76782.1588504 71925.4377341 
+
+
+Iteration:  1 Algorithm:  insertInBetween 90043.3702634 67512.6162756 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 78142.265774 70073.1075743 
+
+insertInBetween 67512.6162756 
+
+tsp_1655_1
+
+Iteration:  1 Algorithm:  greedy 77735.5983219 72232.0489405 
+
+
+Iteration:  1 Algorithm:  insertInBetween 160948.04895 89360.8145567 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 206102.372751 85295.6512535 
+
+greedy 72232.0489405 
+
+tsp_198_1
+
+Iteration:  1 Algorithm:  greedy 19067.9312602 17862.7323027 
+
+
+Iteration:  1 Algorithm:  insertInBetween 24323.4516233 18508.9680142 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 20769.6429251 17593.7193318 
+
+insertNearestInBetween 17593.7193318 
+
+tsp_226_1
+
+Iteration:  1 Algorithm:  greedy 98947.7437128 92449.6497705 
+
+
+Iteration:  1 Algorithm:  insertInBetween 110700.13537 92553.6865095 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 114013.994845 91342.6329709 
+
+insertNearestInBetween 91342.6329709 
+
+tsp_3038_1
+
+Iteration:  1 Algorithm:  greedy 174731.382336 156864.86606 
+
+
+Iteration:  1 Algorithm:  insertInBetween 271908.622595 183608.723026 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 295888.036895 187036.053951 
+
+greedy 156864.86606 
+
+tsp_417_1
+
+Iteration:  1 Algorithm:  greedy 15696.7314067 13174.1709296 
+
+
+Iteration:  1 Algorithm:  insertInBetween 39795.1568982 16454.7442936 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 16725.1553972 13814.918253 
+
+greedy 13174.1709296 
+
+tsp_51_1
+
+Iteration:  1 Algorithm:  greedy 506.363165363 487.010568723 
+
+
+Iteration:  1 Algorithm:  insertInBetween 758.138290389 505.537148991 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 645.449939818 533.09195829 
+
+greedy 487.010568723 
+
+tsp_657_1
+
+Iteration:  1 Algorithm:  greedy 63204.4704199 57190.3278603 
+
+
+Iteration:  1 Algorithm:  insertInBetween 191134.675443 66809.9986483 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 82892.5408538 59182.1324661 
+
+greedy 57190.3278603 
+
+tsp_783_1
+
+Iteration:  1 Algorithm:  greedy 11059.3774246 10244.3227939 
+
+
+Iteration:  1 Algorithm:  insertInBetween 33806.0355777 12110.356525 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 12715.195651 10234.3426372 
+
+insertNearestInBetween 10234.3426372 
+
+tsp_100_2
+
+Iteration:  1 Algorithm:  greedy 26386.6830711 25200.703959 
+
+
+Iteration:  1 Algorithm:  insertInBetween 50642.6573315 27465.2991188 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 28581.2530838 24235.3843679 
+
+insertNearestInBetween 24235.3843679 
+
+tsp_101_1
+
+Iteration:  1 Algorithm:  greedy 815.535305693 737.79291197 
+
+
+Iteration:  1 Algorithm:  insertInBetween 1176.8963155 801.639647127 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 1003.09636624 779.796364243 
+
+greedy 737.79291197 
+
+tsp_11849_1
+
+Iteration:  1 Algorithm:  greedy 1133306.95538 1048521.81948 
+
+
+Iteration:  1 Algorithm:  insertInBetween 12607070.8628 1684292.83164 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 86621261.3782 1798350.49075 
+
+greedy 1048521.81948 
+
+tsp_136_1
+
+Iteration:  1 Algorithm:  greedy 130734.314008 114714.620811 
+
+
+Iteration:  1 Algorithm:  insertInBetween 197565.843576 117567.399026 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 144307.759214 112013.104807 
+
+insertNearestInBetween 112013.104807 
+
+tsp_150_1
+
+Iteration:  1 Algorithm:  greedy 34291.8473248 30969.046339 
+
+
+Iteration:  1 Algorithm:  insertInBetween 66641.7800848 36174.1243616 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 35656.2096648 29333.6099899 
+
+insertNearestInBetween 29333.6099899 
+
+tsp_1748_1
+
+Iteration:  1 Algorithm:  greedy 427054.158641 391874.391722 
+
+
+Iteration:  1 Algorithm:  insertInBetween 2281831.89189 524848.712929 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 10005377.6615 584647.238138 
+
+greedy 391874.391722 
+
+tsp_200_1
+
+Iteration:  1 Algorithm:  greedy 36861.3862594 32631.532455 
+
+
+Iteration:  1 Algorithm:  insertInBetween 90526.7154406 42895.4713021 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 46595.262658 36125.4195296 
+
+greedy 32631.532455 
+
+tsp_2319_1
+
+Iteration:  1 Algorithm:  greedy 274878.781753 253210.844963 
+
+
+Iteration:  1 Algorithm:  insertInBetween 282118.061658 258224.419709 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 281906.408367 256540.591066 
+
+greedy 253210.844963 
+
+tsp_318_1
+
+Iteration:  1 Algorithm:  greedy 53245.1530421 48983.7091614 
+
+
+Iteration:  1 Algorithm:  insertInBetween 100597.111145 53849.6991309 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 57292.9877506 48125.7463395 
+
+insertNearestInBetween 48125.7463395 
+
+tsp_439_1
+
+Iteration:  1 Algorithm:  greedy 134069.700352 125732.034332 
+
+
+Iteration:  1 Algorithm:  insertInBetween 163822.804696 133198.968932 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 148043.281458 126800.354621 
+
+greedy 125732.034332 
+
+tsp_574_1
+
+Iteration:  1 Algorithm:  greedy 47054.9474467 42218.7067024 
+
+
+Iteration:  1 Algorithm:  insertInBetween 40248.6501631 39511.7822017 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 56476.4623633 43544.4193493 
+
+insertInBetween 39511.7822017 
+
+tsp_70_1
+
+Iteration:  1 Algorithm:  greedy 806.12464171 758.020776356 
+
+
+Iteration:  1 Algorithm:  insertInBetween 1355.09121942 860.977210628 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 855.171296026 730.659998814 
+
+insertNearestInBetween 730.659998814 
+
+tsp_85900_1
+
+Iteration:  1 Algorithm:  greedy 500845817.265 500845817.265 
+
+
+Iteration:  1 Algorithm:  insertInBetween 500845817.265 500845817.265 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 500845817.265 500845817.265 
+
+linear 500845817.265 
+
+tsp_100_3
+
+Iteration:  1 Algorithm:  greedy 25138.7854528 23939.6884156 
+
+
+Iteration:  1 Algorithm:  insertInBetween 44128.0618449 25058.8969994 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 24286.4638829 22084.5432947 
+
+insertNearestInBetween 22084.5432947 
+
+tsp_105_1
+
+Iteration:  1 Algorithm:  greedy 18917.7667954 17084.051607 
+
+
+Iteration:  1 Algorithm:  insertInBetween 25643.043725 17922.4880877 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 18976.3735117 16890.5941681 
+
+insertNearestInBetween 16890.5941681 
+
+tsp_124_1
+
+Iteration:  1 Algorithm:  greedy 69941.4642673 65740.6862243 
+
+
+Iteration:  1 Algorithm:  insertInBetween 88970.3745819 71433.5567203 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 77378.1223113 65011.5146715 
+
+insertNearestInBetween 65011.5146715 
+
+tsp_1379_1
+
+Iteration:  1 Algorithm:  greedy 70033.187007 64454.7441975 
+
+
+Iteration:  1 Algorithm:  insertInBetween 256810.070053 81572.527222 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 712360.721085 81666.1005743 
+
+greedy 64454.7441975 
+
+tsp_150_2
+
+Iteration:  1 Algorithm:  greedy 32084.9760404 28464.5012004 
+
+
+Iteration:  1 Algorithm:  insertInBetween 70003.4615728 37238.3066826 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 33480.0845347 29562.0291347 
+
+greedy 28464.5012004 
+
+tsp_1817_1
+
+Iteration:  1 Algorithm:  greedy 70480.523498 65457.3920512 
+
+
+Iteration:  1 Algorithm:  insertInBetween 72092.6353576 67676.6155121 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 71899.8241042 67812.4990593 
+
+greedy 65457.3920512 
+
+tsp_200_2
+
+Iteration:  1 Algorithm:  greedy 36226.2214381 34295.6886049 
+
+
+Iteration:  1 Algorithm:  insertInBetween 94358.6682369 40711.8627109 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 48507.7650948 38040.4785688 
+
+greedy 34295.6886049 
+
+tsp_2392_1
+
+Iteration:  1 Algorithm:  greedy 473940.419449 434223.808398 
+
+
+Iteration:  1 Algorithm:  insertInBetween 378281.575169 378062.826191 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 378062.826191 378062.826191 
+
+insertInBetween 378062.826191 
+
+tsp_318_2
+
+Iteration:  1 Algorithm:  greedy 53245.1530421 48983.7091614 
+
+
+Iteration:  1 Algorithm:  insertInBetween 100597.111145 53849.6991309 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 57292.9877506 48125.7463395 
+
+insertNearestInBetween 48125.7463395 
+
+tsp_442_1
+
+Iteration:  1 Algorithm:  greedy 60113.9235079 56952.1373754 
+
+
+Iteration:  1 Algorithm:  insertInBetween 137089.640597 70978.4070062 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 74562.0666646 60468.574422 
+
+greedy 56952.1373754 
+
+tsp_575_1
+
+Iteration:  1 Algorithm:  greedy 8272.80890391 7528.35999841 
+
+
+Iteration:  1 Algorithm:  insertInBetween 12807.3227757 8997.30024171 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 10323.9926251 8050.07084922 
+
+greedy 7528.35999841 
+
+tsp_724_1
+
+Iteration:  1 Algorithm:  greedy 54394.7457172 49786.2790161 
+
+
+Iteration:  1 Algorithm:  insertInBetween 144219.336371 59143.4405723 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 68195.8365176 51235.9547831 
+
+greedy 49786.2790161 
+
+tsp_99_1
+
+Iteration:  1 Algorithm:  greedy 1493.91724257 1364.12402335 
+
+
+Iteration:  1 Algorithm:  insertInBetween 2101.90186112 1579.84454991 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 1804.96550907 1493.3625794 
+
+greedy 1364.12402335 
+
+tsp_100_4
+
+Iteration:  1 Algorithm:  greedy 29998.1349461 26297.9978458 
+
+
+Iteration:  1 Algorithm:  insertInBetween 46733.0812123 27874.1222695 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 28917.0784114 23169.5928257 
+
+insertNearestInBetween 23169.5928257 
+
+tsp_1060_1
+
+Iteration:  1 Algorithm:  greedy 288480.903586 258378.32987 
+
+
+Iteration:  1 Algorithm:  insertInBetween 262496.759949 252470.382992 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 260168.419965 250848.307597 
+
+insertNearestInBetween 250848.307597 
+
+tsp_127_1
+
+Iteration:  1 Algorithm:  greedy 144402.293128 133006.733207 
+
+
+Iteration:  1 Algorithm:  insertInBetween 247545.097549 158131.957945 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 168587.078985 147335.755289 
+
+greedy 133006.733207 
+
+tsp_1400_1
+
+Iteration:  1 Algorithm:  greedy 28424.2678808 24979.85997 
+
+
+Iteration:  1 Algorithm:  insertInBetween 104120.774802 26652.6746013 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 172582.288475 26491.9049395 
+
+greedy 24979.85997 
+
+tsp_152_1
+
+Iteration:  1 Algorithm:  greedy 87771.7697798 78617.2815236 
+
+
+Iteration:  1 Algorithm:  insertInBetween 149365.17586 86580.7200178 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 82430.8717477 79069.6004471 
+
+greedy 78617.2815236 
+
+tsp_18512_1
+
+Iteration:  1 Algorithm:  greedy 798528.507039 730956.038576 
+
+
+Iteration:  1 Algorithm:  insertInBetween 6365594.18051 971457.042517 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 29460564.1872 960312.60225 
+
+greedy 730956.038576 
+
+tsp_2103_1
+
+Iteration:  1 Algorithm:  greedy 90796.2614308 88294.2145255 
+
+
+Iteration:  1 Algorithm:  insertInBetween 139282.689437 107665.817606 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 141253.058224 105028.332422 
+
+greedy 88294.2145255 
+
+tsp_262_1
+
+Iteration:  1 Algorithm:  greedy 3023.35292257 2764.89661697 
+
+
+Iteration:  1 Algorithm:  insertInBetween 6459.02398549 3352.87323403 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 3782.98615161 2881.31518197 
+
+greedy 2764.89661697 
+
+tsp_33810_1
+
+Iteration:  1 Algorithm:  greedy 229017808.082 229017808.082 
+
+
+Iteration:  1 Algorithm:  insertInBetween 229017808.082 229017808.082 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 229017808.082 229017808.082 
+
+linear 229017808.082 
+
+tsp_4461_1
+
+Iteration:  1 Algorithm:  greedy 226878.876006 208576.188889 
+
+
+Iteration:  1 Algorithm:  insertInBetween 1209136.47523 271855.13642 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 5872314.89168 265349.542922 
+
+greedy 208576.188889 
+
+tsp_5915_1
+
+Iteration:  1 Algorithm:  greedy 692852.345379 641594.210377 
+
+
+Iteration:  1 Algorithm:  insertInBetween 4346403.19879 950151.879405 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 10145047.1173 1036973.04502 
+
+greedy 641594.210377 
+
+tsp_7397_1
+
+Iteration:  1 Algorithm:  greedy 28088349.5058 26325538.2045 
+
+
+Iteration:  1 Algorithm:  insertInBetween 109049305.433 34046575.4301 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 194900359.953 35012948.5973 
+
+greedy 26325538.2045 
+
+tsp_100_5
+
+Iteration:  1 Algorithm:  greedy 26227.5409602 23811.19433 
+
+
+Iteration:  1 Algorithm:  insertInBetween 62374.8440008 30921.3552351 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 33232.513965 24990.4624297 
+
+greedy 23811.19433 
+
+tsp_107_1
+
+Iteration:  1 Algorithm:  greedy 47904.0163284 45338.0842373 
+
+
+Iteration:  1 Algorithm:  insertInBetween 66424.2103625 51403.750545 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 53154.5307928 51441.71554 
+
+greedy 45338.0842373 
+
+tsp_1291_1
+
+Iteration:  1 Algorithm:  greedy 61119.1434978 58191.9807469 
+
+
+Iteration:  1 Algorithm:  insertInBetween 126989.718042 70195.3134213 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 150990.39566 72595.9385831 
+
+greedy 58191.9807469 
+
+tsp_14051_1
+
+Iteration:  1 Algorithm:  greedy 575715.882303 530489.274952 
+
+
+Iteration:  1 Algorithm:  insertInBetween 7833833.16712 701267.074787 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 23587607.6997 708163.457829 
+
+greedy 530489.274952 
+
+tsp_1577_1
+
+Iteration:  1 Algorithm:  greedy 28388.0285493 26414.5949842 
+
+
+Iteration:  1 Algorithm:  insertInBetween 39168.7255456 27172.4286396 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 51065.3134397 28080.9500337 
+
+greedy 26414.5949842 
+
+tsp_1889_1
+
+Iteration:  1 Algorithm:  greedy 391470.445492 366003.560257 
+
+
+Iteration:  1 Algorithm:  insertInBetween 2127299.09108 546932.333729 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 6601297.57417 566763.249025 
+
+greedy 366003.560257 
+
+tsp_2152_1
+
+Iteration:  1 Algorithm:  greedy 78436.427853 74177.7506703 
+
+
+Iteration:  1 Algorithm:  insertInBetween 82105.39016 76202.5310733 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 82205.9896638 76448.3171974 
+
+greedy 74177.7506703 
+
+tsp_264_1
+
+Iteration:  1 Algorithm:  greedy 58363.1686077 56080.0956649 
+
+
+Iteration:  1 Algorithm:  insertInBetween 77407.3156796 61279.8518618 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 71126.7068416 57294.8777252 
+
+greedy 56080.0956649 
+
+tsp_3795_1
+
+Iteration:  1 Algorithm:  greedy 35572.4982027 32944.6592124 
+
+
+Iteration:  1 Algorithm:  insertInBetween 99245.5460666 41154.6143153 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 168840.524193 41773.7929943 
+
+greedy 32944.6592124 
+
+tsp_493_1
+
+Iteration:  1 Algorithm:  greedy 44362.5656572 41112.6314354 
+
+
+Iteration:  1 Algorithm:  insertInBetween 89931.2726537 44057.0884338 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 50806.6692684 41916.810184 
+
+greedy 41112.6314354 
+
+tsp_5934_1
+
+Iteration:  1 Algorithm:  greedy 689752.256878 639940.515208 
+
+
+Iteration:  1 Algorithm:  insertInBetween 4532097.33946 964302.294847 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 9861360.32391 1006691.17202 
+
+greedy 639940.515208 
+
+tsp_76_1
+
+Iteration:  1 Algorithm:  greedy 720.598028469 635.462020113 
+
+
+Iteration:  1 Algorithm:  insertInBetween 1034.08399823 689.561315565 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 835.884879752 633.031328713 
+
+insertNearestInBetween 633.031328713 
+
+tsp_100_6
+
+Iteration:  1 Algorithm:  greedy 10235.3677045 9223.51155372 
+
+
+Iteration:  1 Algorithm:  insertInBetween 18357.9513552 10410.3276103 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 11156.920338 8758.48680331 
+
+insertNearestInBetween 8758.48680331 
+
+tsp_1084_1
+
+Iteration:  1 Algorithm:  greedy 298523.93333 272051.756639 
+
+
+Iteration:  1 Algorithm:  insertInBetween 1618841.67421 391598.242004 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 5350742.14312 431767.558555 
+
+greedy 272051.756639 
+
+tsp_1304_1
+
+Iteration:  1 Algorithm:  greedy 315070.625825 296002.752544 
+
+
+Iteration:  1 Algorithm:  insertInBetween 1325753.59236 415211.491675 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 3231697.33912 430645.59132 
+
+greedy 296002.752544 
+
+tsp_1432_1
+
+Iteration:  1 Algorithm:  greedy 195233.580756 178776.811716 
+
+
+Iteration:  1 Algorithm:  insertInBetween 183241.169529 170975.578744 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 183241.169529 170975.578744 
+
+insertInBetween 170975.578744 
+
+tsp_159_1
+
+Iteration:  1 Algorithm:  greedy 55170.6732726 50000.1034217 
+
+
+Iteration:  1 Algorithm:  insertInBetween 43795.3607199 43395.5030391 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 62157.9786972 48508.7241104 
+
+linear 43375.7068919 
+
+tsp_195_1
+
+Iteration:  1 Algorithm:  greedy 2830.10495519 2684.28664575 
+
+
+Iteration:  1 Algorithm:  insertInBetween 3933.8752187 3033.9173538 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 3632.28301367 2711.27529491 
+
+greedy 2684.28664575 
+
+tsp_225_1
+
+Iteration:  1 Algorithm:  greedy 154669.172382 142529.368232 
+
+
+Iteration:  1 Algorithm:  insertInBetween 243817.714333 165744.731704 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 186419.188925 151084.786949 
+
+greedy 142529.368232 
+
+tsp_299_1
+
+Iteration:  1 Algorithm:  greedy 60829.3681881 54386.4364976 
+
+
+Iteration:  1 Algorithm:  insertInBetween 77695.2226345 59248.465921 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 64803.7675061 54315.8164957 
+
+insertNearestInBetween 54315.8164957 
+
+tsp_400_1
+
+Iteration:  1 Algorithm:  greedy 19196.048157 17752.3259095 
+
+
+Iteration:  1 Algorithm:  insertInBetween 46658.8075484 21783.5607757 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 22438.7160531 17862.0190694 
+
+greedy 17752.3259095 
+
+tsp_5_1
+
+Iteration:  1 Algorithm:  greedy 4.0 4.0 
+
+
+Iteration:  1 Algorithm:  insertInBetween 4.0 4.0 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 4.0 4.0 
+
+linear 4.0 
+
+tsp_654_1
+
+Iteration:  1 Algorithm:  greedy 44686.6768018 39018.4286298 
+
+
+Iteration:  1 Algorithm:  insertInBetween 90507.2023415 43589.0711151 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 51034.8355887 38364.7937719 
+
+insertNearestInBetween 38364.7937719 
+
+tsp_76_2
+
+Iteration:  1 Algorithm:  greedy 143815.470121 132334.533248 
+
+
+Iteration:  1 Algorithm:  insertInBetween 161105.768312 144964.790099 
+
+
+Iteration:  1 Algorithm:  insertNearestInBetween 147110.749963 125209.688079 
+
+insertNearestInBetween 125209.688079 
+
