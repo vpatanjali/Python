@@ -85,7 +85,7 @@ def genIDVs_cust(data):
     
     groups = data[collist].groupby('customer_ID')
     
-    idvs = groups.aggregate(['first','last','min','max','mean','median','sum','std',])
+    idvs = groups.aggregate(['first','last','min','max','mean'])#,'median','sum','std',])
     #                         nuniq,last2,last2eq])
     idvs.columns = [x[0]+'_'+x[1] for x in idvs.columns]
     return idvs
